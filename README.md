@@ -1,8 +1,3 @@
-# G.E.H.A. — Estructura inicial del equipo
-
-Proyecto académico de Gestión de Horarios Académicos con Python, Tkinter y SQLite.
-rencia requiere autorización.
-
 # G.E.H.A. — Gestión de Horarios Académicos
 
 Proyecto académico de Programación Orientada a Objetos, tercer semestre de
