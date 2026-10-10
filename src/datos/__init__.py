@@ -1,0 +1,1 @@
+"""Persistencia local con SQLite."""
