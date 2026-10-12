@@ -21,9 +21,6 @@ al profesor. **Todavía no crea horarios.**
 
 ## Cómo ejecutar
 
-Requisitos: **Python 3.10 o superior con Tkinter**. Se comprobó con Python 3.14 y
-Tkinter 8.6 en Windows. No hay paquetes externos que instalar.
-
 Abre la carpeta del repositorio en Visual Studio Code y ejecuta en su terminal:
 
 ```powershell
